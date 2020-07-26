@@ -1,2 +1,2 @@
 # java-basic
-Repo of some java basics refresher
+Repo of some java basics refresher exercises
