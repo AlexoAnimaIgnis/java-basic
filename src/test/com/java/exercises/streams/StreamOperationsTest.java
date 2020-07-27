@@ -32,8 +32,8 @@ public class StreamOperationsTest {
     }
 
     @Test
-    public void operationMap() {
-
+    public void operationMapIDtoEmployees_getNewStream() {
+        Integer[] emplist = {1, 2, 3};
     }
 
     @Test
